@@ -1,0 +1,10 @@
+Z:\FileIO\FileIO\bin\Debug\FileIO.exe.config
+Z:\FileIO\FileIO\bin\Debug\FileIO.exe
+Z:\FileIO\FileIO\bin\Debug\FileIO.pdb
+Z:\FileIO\FileIO\obj\Debug\FileIO.csprojAssemblyReference.cache
+Z:\FileIO\FileIO\obj\Debug\FileIO.Form1.resources
+Z:\FileIO\FileIO\obj\Debug\FileIO.Properties.Resources.resources
+Z:\FileIO\FileIO\obj\Debug\FileIO.csproj.GenerateResource.cache
+Z:\FileIO\FileIO\obj\Debug\FileIO.csproj.CoreCompileInputs.cache
+Z:\FileIO\FileIO\obj\Debug\FileIO.exe
+Z:\FileIO\FileIO\obj\Debug\FileIO.pdb
